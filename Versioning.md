@@ -1,3 +1,9 @@
+## 1.2.3 (2026-01-14)
+
+### Bug Fixes
+* add conventional-changelog-conventionalcommits dependency ([6e8f3dc](https://github.com/liguiqi-het/test/commit/6e8f3dc1308d4eadae0eee0b5c442d1c168d5f7f))
+* 正确触发，版本 V1.0.1-3 ([a7a7b91](https://github.com/liguiqi-het/test/commit/a7a7b91b3ee149adcd5a89cce969c6a0809898ae))
+
 ## 1.2.2 (2026-01-14)
 
 ### Bug Fixes
