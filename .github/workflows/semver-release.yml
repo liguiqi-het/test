@@ -62,7 +62,8 @@ jobs:
             @semantic-release/changelog \
             @semantic-release/git \
             @semantic-release/github \
-            @semantic-release/exec
+            @semantic-release/exec \
+            conventional-changelog-conventionalcommits
 
       - name: Release
         env:
