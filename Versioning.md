@@ -1,3 +1,8 @@
+# 1.1.0 (2026-01-14)
+
+### Features
+* 正确触发，版本 V1.10 ([41b0b01](https://github.com/liguiqi-het/test/commit/41b0b0149803c401c6c9d4cfe78785c71275a012))
+
 ## 1.0.3 (2026-01-14)
 
 ### Bug Fixes
