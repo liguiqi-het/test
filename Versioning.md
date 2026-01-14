@@ -1,3 +1,13 @@
+## 1.2.1 (2026-01-14)
+
+### Bug Fixes
+* fix semantic-release config and add package.json ([cb8be40](https://github.com/liguiqi-het/test/commit/cb8be40818581013acb083a55aef6c8ce4941dfd))
+* add package.json and fix semantic-release config ([04fa2cd](https://github.com/liguiqi-het/test/commit/04fa2cdcf24e8a3652123045d41e19ac06be1c47))
+* 121212 ([8d4f9ba](https://github.com/liguiqi-het/test/commit/8d4f9baa484b9ed6f79d8f9faa20b70804640e63))
+* 正确触发，版本 V1.0.1 ([deeb9cd](https://github.com/liguiqi-het/test/commit/deeb9cdba4721fea90ccd826d301f0faabeed232))
+* 正确触发，版本 V1.21- ([2bb0a01](https://github.com/liguiqi-het/test/commit/2bb0a0180032c013a6a38b2bb59281c5cf1bc7e0))
+* 正确触发，版本 V1.21 ([1e8fa82](https://github.com/liguiqi-het/test/commit/1e8fa82f26392cff901d2872655df5671755220c))
+
 # 1.2.0 (2026-01-14)
 
 ### Features
