@@ -77,6 +77,7 @@ def analyze_commits():
         return 0, {}
 
     raw_blocks = result.stdout.strip().split("---ENDMSG---")
+    print("eeeeeeeeeeeeeeeeee\n", raw_blocks)
 
     level = 0
     entries = {
