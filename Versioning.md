@@ -1,3 +1,11 @@
+# 1.2.0 (2026-01-14)
+
+### Features
+* 正确提交 V1.20 ([b0c9deb](https://github.com/liguiqi-het/test/commit/b0c9deb4053eb12e118fe595982da099d656ffda))
+
+### Bug Fixes
+* 正确提交 V1.11 ([6d8a1ce](https://github.com/liguiqi-het/test/commit/6d8a1cedb4d4305b54e91d572143af4844cb9d95))
+
 # 1.1.0 (2026-01-14)
 
 ### Features
