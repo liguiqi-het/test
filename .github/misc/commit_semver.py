@@ -80,6 +80,8 @@ def analyze_commits():
     print("eeeeeeeeeeeeeeeeee\n", raw_blocks)
     raw_blocks = [_.split('|@|') for _ in raw_blocks]
     print("kkkkkkkkkkkkkkkkkk\n", raw_blocks)
+    raw_blocks = [[_[0].split('\n')[0], _[1] if "---ENDMSG---" not in _[1] else _[1][:-12]] for _ in raw_blocks]
+    print("vvvvvvvvvvvvvvvvv\n", raw_blocks)
 
     level = 0
     entries = {
