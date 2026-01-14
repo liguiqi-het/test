@@ -1,3 +1,8 @@
+## 1.0.3 (2026-01-14)
+
+### Bug Fixes
+* 正确提交 V1.03 ([f8287d3](https://github.com/liguiqi-het/test/commit/f8287d3ffe7931e006bd631a1bdb30d6c32d2261))
+
 ## 1.0.2(2026-01-14)
 
 ### Bug Fixes
