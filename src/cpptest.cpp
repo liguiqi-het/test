@@ -93,3 +93,4 @@ void test_cpp_zlib() {
 // fix(:package:): 正确触发，版本 V1.21-
 
 // fix(:package:): 正确触发，版本 V1.0.1
+// fix(:package:): 正确触发，版本 V1.0.1-1
