@@ -1,3 +1,10 @@
+## 1.2.2 (2026-01-14)
+
+### Bug Fixes
+* move .releaserc.json to root directory ([aa045ac](https://github.com/liguiqi-het/test/commit/aa045ac9da422b9a1093f9cd46af04f6306824fe))
+* 正确触发，版本 V1.0.1-2 ([bf2cc79](https://github.com/liguiqi-het/test/commit/bf2cc79751e09520bb09dbb276817b093f896bbf))
+* 正确触发，版本 V1.0.1-1 ([32600ed](https://github.com/liguiqi-het/test/commit/32600ed1332806d70ab372adfe889cac5fda09a1))
+
 ## 1.2.1 (2026-01-14)
 
 ### Bug Fixes
