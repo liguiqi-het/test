@@ -1,3 +1,8 @@
+## 1.0.2 (2026-01-15)
+
+### Bug Fixes
+* add Windows compatibility for build-test workflow ([5f371e6](https://github.com/liguiqi-het/test/commit/5f371e6c49f1846be58fa67d2abd5722dff3f91a))
+
 ## 1.2.3 (2026-01-14)
 
 ### Bug Fixes
