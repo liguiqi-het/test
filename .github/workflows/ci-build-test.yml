@@ -79,7 +79,7 @@ jobs:
       - name: Clean up test_package builds
         shell: bash
         run: |
-          conan test . test_package --build=missing
+          python ./test_package/conanfile.py
 
       - name: Clean up Conan packages
         if: always()
