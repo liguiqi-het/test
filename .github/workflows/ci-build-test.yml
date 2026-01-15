@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 env:
-  CONAN_HOME: ${{ github.workspace }}/.conan2
+  CONAN_HOME: ~/.conan2
 
 jobs:
   build-and-test:
