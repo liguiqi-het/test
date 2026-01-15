@@ -75,32 +75,4 @@ void test_cpp_zlib() {
               << "; zlib in C++ test done!" << std::endl;
 }
 
-// test1
-// fix: 正确提交 V1.03
-// ffix: 非正确提交 V1.03
-// fffix: 非正确提交 V1.03
-// ffffix: 非正确提交 V1.03
 
-// docs: 正确触发，版本 V1.03
-// test: 非正确触发，版本 V1.03
-// feat: 正确触发，版本 V1.10
-
-// fix: 正确提交 V1.11
-// fffix: 非正确提交 V1.11
-// feat: 正确提交 V1.20
-
-// fix(:package:): 正确触发，版本 V1.21
-// fix(:package:): 正确触发，版本 V1.21-
-
-// fix(:package:): 正确触发，版本 V1.0.1
-// fix(:package:): 正确触发，版本 V1.0.1-1
-
-// fix(:package:): 正确触发，版本 V1.0.1-2
-
-// fix(:package:): 正确触发，版本 V1.0.1-3
-
-// fix(:package:): 正确触发，版本 V1.0.1-4
-
-// fix(:package:): 正确触发，版本 V1.0.1-5
-
-// :building_construction: 触发build 测试
