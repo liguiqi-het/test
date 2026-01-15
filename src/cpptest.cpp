@@ -102,3 +102,5 @@ void test_cpp_zlib() {
 // fix(:package:): 正确触发，版本 V1.0.1-4
 
 // fix(:package:): 正确触发，版本 V1.0.1-5
+
+// :building_construction: 触发build 测试
