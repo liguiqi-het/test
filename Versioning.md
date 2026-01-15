@@ -1,3 +1,8 @@
+## 1.0.3 (2026-01-15)
+
+### Bug Fixes
+* update fcpp ci-biuld ([e072969](https://github.com/liguiqi-het/test/commit/e07296981bc5ea8b0418840fd03c95a503582909))
+
 ## 1.0.2 (2026-01-15)
 
 ### Bug Fixes
